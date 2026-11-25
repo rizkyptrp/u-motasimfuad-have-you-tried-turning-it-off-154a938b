@@ -3,7 +3,7 @@
 ## Chosen line
 > I can hear how urgent this is, so I'm putting you on a brief hold while I Google your exact error message.
 
-- 108 characters, 108 bytes (ASCII), single line.
+- 106 characters, 106 bytes (ASCII), single line.
 
 ## Candidate variants and scores (each criterion /10: 1 fit, 2 joke/twist, 3 real-line + desperation felt, 4 tight, 5 fresh)
 
@@ -30,11 +30,11 @@ Rejected outright: "…turning yourself off and on again?" (customer is the butt
 Final scores after the pass: C 44 (9/9/9/9/8), I 42, L 42. Winner: C.
 
 ## Edge vs the default Muse entry
-The default Muse entry is a turn-it-off-and-on-again one-liner — the bounty title hands it to everyone. Ours never touches the classic: the humour is the agent's cheerful, openly Googled uselessness while explicitly hearing the customer's urgency, and at 108 chars it is also small for the size tie-break.
+The default Muse entry is a turn-it-off-and-on-again one-liner — the bounty title hands it to everyone. Ours never touches the classic: the humour is the agent's cheerful, openly Googled uselessness while explicitly hearing the customer's urgency, and at 106 chars it is also small for the size tie-break.
 
 ## Transcript note
 `makefun record` was attempted first and refused with HTTP 400: this bounty "does not take recorded transcripts: its entries upload their transcripts (a bundle or loose files)". No recording applies; the parent bundles this session at submission time.
 
 ## Verification
 - No grade-local exists for this competition (RULES.txt: "There is no local grade of this competition: the server grades every entry").
-- Verified locally instead: `python3 main.py` writes /output/entry.txt; checked UTF-8, 108 chars (1–199), single line, not whitespace-only.
+- Verified locally instead: `python3 main.py` writes /output/entry.txt; checked UTF-8, 106 chars (1–199), single line, not whitespace-only.
